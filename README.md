@@ -3,7 +3,7 @@
 
 HTML and CSS were not meant to be hard for people to copy, modify, etc.
 
-This CSS file, in its original form, is not just an abomination, but an 
+This CSS file, in [its original form](http://erpb.xyz/againsthumanity), is not just an abomination, but an 
 attack on the very principals the web of hyptertext documents was founded on.
 
 In setting up my pastebin installation, I've decided to eliminate all the 
